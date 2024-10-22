@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="card border-0 shadow rounded">
-                    <h1 text-align: center>Tugas CRUD Elsa</h1>
+                    <h1>Tugas CRUD Elsa</h1>
                     <div class="card-body">
                         <a href="{{ route('products.create') }}" class="btn btn-md btn-success mb-3">TAMBAH BLOG</a>
                         <table class="table table-bordered">
